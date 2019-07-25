@@ -1,0 +1,66 @@
+body{
+	background-color: #DCDCDC;
+	
+    
+}
+h1{
+	color:black;
+	margin: 0;
+    text-align: center;
+	
+}
+
+#PersonalInfo{
+	color:black;
+	margin: 0;
+    text-align: center;
+	
+}
+
+
+
+img{
+	width:20.3%;
+	margin: 0;
+    text-align: center;
+	
+}
+
+#favoriteShows{
+	color: black;
+	font-size: 30px;
+	margin: 0;
+    text-align: center;
+
+
+}
+#shows{
+	/*position: relative;
+	left:90px;*/
+	width:22.1%;
+}
+#shows2{
+	width:20.3%; 
+	/*position: relative;
+	left:95px;*/
+
+}
+#shows3{
+	width:20.8%;
+	/*position: relative;
+	left:100px;*/
+}
+#shows4{
+	width:20.3%;
+	/*position: relative;
+	left:105px;*/
+
+}
+div{
+	margin: 0;
+    text-align: center;
+
+
+
+}
+
